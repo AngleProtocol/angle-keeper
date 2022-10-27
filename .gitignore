@@ -1,0 +1,8 @@
+node_modules
+dist
+yarn-error.lock
+build
+.env
+.vscode
+.npmrc
+yarn.lock
