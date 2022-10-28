@@ -1,7 +1,7 @@
 {
   "name": "keeper-bot",
   "version": "0.0.1",
-  "description": "A Keeper Bot to automatcally liquidate bad loans",
+  "description": "A keeper bot to automatcally liquidate bad loans",
   "main": "index.ts",
   "author": "Angle Core Team",
   "license": "GPL-3.0",
